@@ -1,5 +1,6 @@
 # loss-jquery
 Tidak usah dibahas, karena ini hanya menampilkan loss pattern saja. Ga lebih ga kurang.
+![Loss gan](https://raw.githubusercontent.com/stellarzluna/loss-jquery/master/img/Screenshot_165.png)
 
 ## Cara menjalankannya
 1. Clone repositori ini!
